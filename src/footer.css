@@ -1,0 +1,23 @@
+.footer{
+  margin-top: 50px;
+  display:flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.footer .first{
+color:rgb(207, 207, 114);
+}
+.footer .third{
+color:rgb(104, 104, 194)
+}
+.footer .fourth{
+  color:rgb(148, 207, 148)
+}
+.footer .fifth{
+  color:rgb(145, 85, 145)
+}
+.footer i{
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 5px 10px 8px #888888;
+}

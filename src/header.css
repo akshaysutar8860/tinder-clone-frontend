@@ -1,0 +1,13 @@
+.header{
+  display:flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.second{
+ color:red;
+}
+.header i{
+  padding: 15px;
+  border-radius: 50%;
+  box-shadow: 5px 10px 8px #888888;
+}

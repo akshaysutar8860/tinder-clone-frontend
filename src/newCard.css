@@ -1,0 +1,25 @@
+.cards {
+  height: 500px;
+  width: 450px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.childs img {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.childs p {
+  text-transform: capitalize;
+  text-shadow: 2px 2px 4px #5a4040;
+
+  font-weight: 700;
+  font-size: 20px;
+}
+.childs {
+  display: flex;
+  flex-direction: column;
+}
